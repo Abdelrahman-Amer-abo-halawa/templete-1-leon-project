@@ -334,6 +334,13 @@ html {
     gap: 30px;
 }
 
+@media (max-width: 767px) {
+    .portfolio .portfolio-content {
+        margin: 80px 0;
+    }
+}
+
+
 .portfolio-content .col img {
     margin-bottom: -3px;
     max-width: 100%;
